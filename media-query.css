@@ -1,0 +1,12 @@
+@media only screen and (max-width: 990px)
+{
+	.header{
+		text-align: center;
+	}
+	.title-img{
+		margin-top: 5%;
+		position: static;
+		transform: rotate(0);
+		width: 50%;
+	}
+}
